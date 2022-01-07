@@ -1,8 +1,9 @@
-##WHILE RUNNING U MAY GET SOMETHING LIKE THIS WHICH U CAN JUST IGNORE
-##Note: .\EncryptionProgram.java uses unchecked or unsafe operations.
-##Note: Recompile with -Xlint:unchecked for details.
+WHILE RUNNING U MAY GET SOMETHING LIKE THIS WHICH U CAN JUST IGNORE
 
-##Credits to BroCode YT channel, I learned it from there!!
+Note: .\EncryptionProgram.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+# Credits to BroCode YT channel, I learned it from there!!
 
 
 ## Getting Started
